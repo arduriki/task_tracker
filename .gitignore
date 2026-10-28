@@ -77,5 +77,5 @@ pyvenv.cfg
 .venv
 pip-selfcheck.json
 
-# Project
-PROJECT.md
+# Personal learning and consulting notes.
+docs/
